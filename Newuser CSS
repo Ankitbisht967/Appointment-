@@ -1,0 +1,19 @@
+body {
+background-color: LightGray;
+border-radius: 10px 10px 10px 10px;
+}
+h1 {
+border: solid yellow;
+font-family:italic;
+background-color: LightBlue;
+text-align: center;
+border-radius: 20px 20px 20px 20px;
+
+}
+.followstyle{
+border: solid blue;
+padding: 30px;
+margin: 10px;
+background: linear-gradient(45deg,orange,white,green);
+color: black;
+}
