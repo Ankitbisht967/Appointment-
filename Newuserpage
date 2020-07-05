@@ -1,0 +1,35 @@
+#NewUserPage >>>>>>>>>>
+
+
+
+
+<!doctype html>
+<html>
+<body>
+<div>
+<h1>Thank You For Registration </h1>
+<p>
+Verification mail is sent to verify your email. <br>
+We Hope you will like our services 
+</p>
+</div>
+<div>
+For any queries and complain pls contact us at <br>
+<a href="/contact.html">Help</a>
+ </div>
+<div>
+ <strong>Follow us</strong>
+<ul>
+<li><a href="https://m.facebook.com/home.php">Facebook</a></li>
+<li><a href="https://www.instagram.com/explore/search/">Instagram</a></li>
+<li><a href="https://mobile.twitter.com/home?lang=en">Twitter</a></li>
+</ul>
+</div>
+</body>
+</html>
+
+
+
+
+
+
