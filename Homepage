@@ -1,0 +1,21 @@
+#Homepage
+<!doctype html>
+<html>
+<head>
+ <link rel="stylesheet" href="style.css">
+</head>
+ <body>
+  <h1>KIOTEL</h1>
+  <br>
+  <img src="https://images.app.goo.gl/Wt9ho7duerVurBTo8"
+  width="200" hieght="200">
+  
+  <div>
+  <strong>Menu</strong>
+  <ul>
+  <li><a class="home" href="/index.html">Home</a></li>
+  <li><a href="/about.html">About Us </a></li>
+  <li><a href="/contact.html">Contact us</a></li>
+  <li><a href="/register.html">Rgister Here<a></li>
+  </ul>
+</div>
