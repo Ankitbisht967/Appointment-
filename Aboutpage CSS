@@ -1,0 +1,39 @@
+##AboutPage CSS file >>>>>>
+
+
+
+
+
+body {
+border: solid black;
+ background-color: lightBlue;
+}
+h1 {
+width: 75%;
+border: solid black;
+ background: linear-gradient(45deg, lightGreen,yellow);
+ border-radius: 0 0 200px 0;
+}
+p {
+font-style: italic;
+background-color: lightGray;
+ color: brown;
+}
+.home1{
+color: black;
+background-color: lightPink;
+font-weight: bold;
+}
+.follow{
+border: solid blue;
+padding: 30px;
+margin: 10px;
+background: linear-gradient(45deg,orange,white,green);
+color: black;
+}
+.ul{
+color: red;
+font-family: Grumpy;
+}
+
+
