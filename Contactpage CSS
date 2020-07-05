@@ -1,0 +1,42 @@
+
+##ContactPage CSS >>>>>>>
+
+
+
+
+
+
+body {
+border: solid black;
+ background-color: lightGray;
+}
+h1 {
+ width: 75%;
+ border: solid black;
+ background: linear-gradient(45deg,lightBlue,white,lightGreen);
+ border-radius: 0 0 300px 0;
+ font-family: Steetscript ;
+}
+.home2{
+color: black;
+background-color: lightPink;
+font-weight: bold;
+}
+.follow1{
+border: solid blue;
+padding: 30px;
+margin: 10px;
+background: linear-gradient(45deg,orange,white,green);
+color: black;
+}
+.ul1{
+color: red;
+font-family: Grumpy;
+}
+
+
+
+
+
+
+
