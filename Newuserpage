@@ -5,6 +5,9 @@
 
 <!doctype html>
 <html>
+<head>
+ <link rel="stylesheet" href="style4.css">
+</head>
 <body>
 <div>
 <h1>Thank You For Registration </h1>
@@ -17,7 +20,7 @@ We Hope you will like our services
 For any queries and complain pls contact us at <br>
 <a href="/contact.html">Help</a>
  </div>
-<div>
+<div class="followstyle">
  <strong>Follow us</strong>
 <ul>
 <li><a href="https://m.facebook.com/home.php">Facebook</a></li>
