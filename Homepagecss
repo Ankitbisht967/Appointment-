@@ -1,0 +1,29 @@
+
+##HomePage Css file>>>>>>>>
+
+
+
+
+h1 {
+margin: 0px;
+padding: 20px;
+text-align: center;
+ font-size: 50px;
+ color: white;
+ border: solid black;
+ background: linear-gradient(45deg,blue,yellow);
+}
+body {
+ background-color: lightGray;
+}
+div{
+width: 75%;
+background-color: lightYellow;
+border-radius: 0 0 200px 0;
+}
+.home{
+font-style: italic;
+color: black;
+}
+
+
