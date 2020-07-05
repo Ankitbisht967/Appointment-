@@ -1,0 +1,51 @@
+#SignUpPage >>>>>>>>
+
+
+<!doctype html>
+<html>
+<body>
+<div>
+<h1>Welcome to KIOTEL</h1>
+<p>
+First Name <br>
+<input type="name"><br>
+Last Name <br>
+<input type="last name"><br>
+Gender <br>
+<ul>
+ <li>Male <input type="checkbox"></li>
+ <li>Female <input type="checkbox"></li>
+</ul>
+Date of Birth <br>
+<input type="date"><br>
+Email <br>
+<input type="email"><br>
+Address <br>
+<input type="address"><br>
+Pincode <br>
+<input type="pincode"><br>
+Choose Connection <br>
+<ul>
+<li>Postpaid
+<input type="checkbox"
+></li>
+<li>Prepaid
+<input type="checkbox">
+<li>Broadband
+<input type="checkbox">
+</li><br>
+<button><a href="/newuser.html"><strong>Sign Up</strong></a></button>
+
+</ul>
+</p>
+</div>
+<div>
+<strong>Follow us</strong>
+<ul>
+<li><a href="https://m.facebook.com/home.php">Facebook</a></li>
+<li><a href="https://www.instagram.com/explore/search/">Instagram</a></li>
+<li><a href="https://mobile.twitter.com/home?lang=en">Twitter</a></li>
+</ul>
+</div>
+</body>
+</html>
