@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+ <link rel="stylesheet" href="style.css">
+</head>
+ <body>
+  <h1>Register Now</h1>
+  <br>
+  <img src=""
+  width="200" hieght="200">
+  
+  <div>
+  <strong class="head1">Register As </strong>
+  <ul>
+  <li><a class="" href="">Register as a Shop</a></li> <br>
+  <li><a class="" href="">Register as a User</a></li>
+  </ul>
+</div>
+
+  
