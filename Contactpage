@@ -1,0 +1,28 @@
+#ContactPage >>>>>>>>>
+
+
+
+<!doctype html>
+<html>
+<head>
+ <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+<div>
+<a class="home2"href="index.html">Homepage</a>
+<h1>Contact Us</h1>
+<ul>
+<li>Sms - 799999499</li>
+<li>Customer care - 01145687354</li>
+<li>Mail - gogokiotel@gmail.com</li>
+</ul>
+</div>
+<div class="follow1">
+<strong style="color:black">Follow us</strong>
+<ul class="ul1">
+<li><a href="https://m.facebook.com/home.php">Facebook</a></li>
+<li><a href="https://www.instagram.com/explore/search/">Instagram</a></li>
+<li><a href="https://mobile.twitter.com/home?lang=en">Twitter</a></li>
+</ul>
+</div>
+
