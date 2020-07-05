@@ -1,0 +1,25 @@
+#RegisterPage >>>>>>>>>>
+
+
+
+<!doctype html>
+<html>
+<head>
+ <link rel="stylesheet" href="style3.css">
+</head>
+
+<body>
+<a class="home3" href="index.html">Homepage</a>
+<div>
+<h1>Welcome to KIOTEL</h1>
+<input class="in1" type="text"
+placeholder="username"><br>
+<input class="in2" type="password"
+placeholder="password"><br>
+<a href="url">text</a>
+<button class="button">Login</button><br>
+<strong>If you a new user please sign up below!! </strong><br>
+<a href="/signup.html">Sign Up</a>
+</div>
+</body>
+</html>
