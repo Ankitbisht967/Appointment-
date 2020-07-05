@@ -1,0 +1,45 @@
+##RegisterPage CSS File.>>>>>>>>>
+
+
+
+
+
+
+
+body {
+padding: 0 0 20px 0;
+border: solid black;
+ background-color: lightGray;
+}
+h1 {
+padding: 20px;
+margin: 20px 0 20px 0;
+ text-align: center;
+ border: solid black;
+ background: linear-gradient(45deg,orange,lightBlue,lightGreen);
+}
+.home3{
+color: black;
+background-color: lightPink;
+font-weight: bold;
+}
+.button{
+margin: 10px 10px 100px 10px;
+}
+.in1{
+border: solid gold;
+padding: 10px;
+margin: 10px;
+}
+.in2{
+border: solid gold;
+padding: 10px;
+margin: 10px;
+}
+
+
+
+
+
+
+
