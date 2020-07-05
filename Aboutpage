@@ -1,0 +1,42 @@
+
+  
+
+
+#AboutPage >>>>>>>>>
+
+
+<!doctype html>
+<html>
+<head>
+ <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+<a class="home1" href="index.html">Homepage</a>
+<h1>About Us</h1>
+<div>
+<p>
+KIOTEL was setup on 1st April, 1986 by the Government of India to upgrade the quality of telecom services, expand the telecom network, introduce new services and to raise revenue for telecom development needs of India 's key metro cities of Delhi & Mumbai. KIOTEL is the principal provider of fixed-line telecommunication service in the two Metropolitan Cities of Delhi and Mumbai. It offers mobile services in the city of Delhi including four peripheral towns Noida, Gurgaon, Faridabad & Gaziabad and the Mumbai city along with the areas falling under the Mumbai Municipal Corporation, New Mumbai Corporation and Thane Municipal Corporation.
+
+The authorized capital of the Company is Rs. 800 crores. The Paid up Share Capital is Rs. 630 crores divided into 63 crore share of Rs. 10 each. At present, 56.25% equity shares are held by President of India & her nominees and remaining 43.75% shares are held by FIIs, Financial Institutions, Banks, Mutual Funds and others including individual investors. KIOTEL has been given Navratna status in 1997 and was listed in New York Stock Exchange in 2001.
+
+In more than two decades of its operations, there has been all-round development & growth and improved operational efficiency. Presently, KIOTEL is providing a host of telecom services that include fixed telephone service, GSM (including 3G services) & CDMA based Mobile service, Internet, Broadband, ISDN and Leased Line services., KIOTEL has been in the forefront of offering state of the art technology based telecommunications services to its customers at most affordable prices. KIOTEL has been the first to launch some of the latest telecom technologies in the country like ADSL2+ & VDSL2 in broadband, IPTV on MPEG4 technology, VOIP and 3G Mobile service.
+
+KIOTEL is proud to be associated with the Common Wealth Games (CWG)-2010 as its Official Telecom Partner to set up a world class communication infrastructure to meet out the broadcast and telecom requirement of the event. It's a matter of great prestige for KIOTEL to associate with a global sporting event of this magnitude and significance and to showcase the world, India's capability to setup best possible all round infrastructure.
+
+To meet the broadcast and other requirement such as carrying of High Definition TV stream, games data, security requirements etc the salient features of Telecom infrastructure were specially created by KIOTEL for CWG-2010 in less than a year time frame.
+
+After completion of the games the network elements are used to strengthen / augment the exiting IP / MPLS backbone networks of KIOTEL in Delhi & Mumbai enabling KIOTEL to meet all its current and future requirements as well as to facilitate it to provide wholesale bandwidth connectivity to other telecom operators, Banks, Corporate Houses and various other Govt Agencies on lease or rental basis support.
+
+KIOTEL is providing telecommunications beyond boundaries through its Joint Ventures and Subsidiaries. KIOTEL is present in Nepal through its Joint Venture United Telecom Limited (UTL) and in Mauritius through its 100% subsidiary Mahanagar Telephone Mauritius Limited (MTML).
+</p>
+</div>
+<div class="follow">
+<strong>Follow us</strong>
+<ul class="ul">
+<li><a href="https://m.facebook.com/home.php">Facebook</a></li>
+<li><a href="https://www.instagram.com/explore/search/">Instagram</a></li>
+<li><a href="https://mobile.twitter.com/home?lang=en">Twitter</a></li>
+</ul>
+</div>
+</body>
+</html>
